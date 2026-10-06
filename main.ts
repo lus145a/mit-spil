@@ -281,3 +281,6 @@ if (blockSettings.exists("beenHereBefore")) {
 } else {
     newStart()
 }
+game.onUpdate(function () {
+	
+})
