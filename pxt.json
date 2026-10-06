@@ -13,7 +13,9 @@
         "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0",
         "sprite-scaling": "*",
         "arcade-text": "github:microsoft/arcade-text#v1.3.0",
-        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.1"
+        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.1",
+        "Custom Keybind Extension": "github:Brohann3214/custom-keybind-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64",
+        "controller": "*"
     },
     "files": [
         "main.blocks",
