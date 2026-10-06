@@ -152,6 +152,7 @@ function start () {
         }
     })
 }
+let hej_lucas = 0
 let myMenu: Sprite = null
 let username = ""
 let titleBackground = sprites.create(img`
@@ -282,5 +283,5 @@ if (blockSettings.exists("beenHereBefore")) {
     newStart()
 }
 game.onUpdate(function () {
-	
+    hej_lucas = 0
 })
