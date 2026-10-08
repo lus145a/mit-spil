@@ -15,7 +15,8 @@
         "arcade-text": "github:microsoft/arcade-text#v1.3.0",
         "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.1",
         "Custom Keybind Extension": "github:Brohann3214/custom-keybind-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64",
-        "controller": "*"
+        "controller": "*",
+        "pxt-clock": "github:Blobbey2000/pxt-clock#v1.10.4"
     },
     "files": [
         "main.blocks",
