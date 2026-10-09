@@ -264,7 +264,7 @@ let password = ""
 let username = ""
 let admin = 0
 let myMenu: Sprite = null
-let titleBackground = sprites.create(img`
+scene.setBackgroundImage(img`
     99999999999999999999999999999999999999999999999999999999999999bddd999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999996
     99999999999999999999999999999999999999999999999999999999999999ddddd9999999b999999999999999999999999999999999999999999999999999999999999999999999999999999999999
     99999999999999999999999999999999999999999999999999999999999999bbbddd999999bd99999999999999999999999999999999999999999999999999999999999999999999999999999999999
@@ -385,7 +385,7 @@ let titleBackground = sprites.create(img`
     ffffffcccccc7eeecccffcffffffccccccccccccccccccccffffffcccccccccccceeeeeeeeccccccccccceeecffffffffccccfffccccccccccccccccccffcccccccccccccccccccccccffffc8ccffff
     fffffccccccceeeeeeefeffffffffcccccccccccccfccccccffffccccccccccccceeeeeccccfccccccccccccccffcffffccccfffccccccccccccccccccffcccccccccccccccccccccccfffcc88cffff
     fffffcccccceecccccccccffffffcfcccceeeeeeeeefeeeeefffffcccccccccccceeeeeeeecfccccccccccccffffcffffccccfffccccccccccccccccccffcccccccccccccccccccccccfccccfffffff
-    `, SpriteKind.Player)
+    `)
 if (blockSettings.exists("beenHereBefore")) {
     start()
 } else {
