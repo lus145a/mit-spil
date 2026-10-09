@@ -30,6 +30,29 @@ function askForPassword () {
     if (password == "hans d. 116") {
         blockSettings.writeNumber("admin", 1)
         menu()
+        Achievements.showAchievement(
+        "Admin activated",
+        "Activate admin panel in settings",
+        1,
+        img`
+            . . . . . . . b b . . . . . . . 
+            . . . . . . b 4 5 b . . . . . . 
+            . . . . . b 4 5 7 6 b . . . . . 
+            . . . . b b 5 7 6 8 a b . . . . 
+            . . . . b 5 7 6 8 a 3 b . . . . 
+            . b b b b 7 6 8 a 3 2 4 b b b b 
+            b 2 4 5 7 6 8 a 3 2 4 5 7 6 8 b 
+            b 4 5 7 6 8 a 3 2 4 5 7 6 8 a b 
+            . b 7 6 8 a 3 2 4 5 7 6 8 a b . 
+            . . b 8 a 3 2 4 5 7 6 8 a b . . 
+            . . c a 3 2 4 5 7 6 8 a 3 c . . 
+            . . c 3 2 4 5 7 6 8 a 3 2 c . . 
+            . . c 2 4 5 7 6 8 a 3 2 4 c . . 
+            . . c 4 5 7 c c c c 2 4 5 c . . 
+            . . . c c c . . . . c c c . . . 
+            . . . . . . . . . . . . . . . . 
+            `
+        )
     } else {
         if (game.ask("Wrong password", "Would you try again?")) {
             askForPassword()

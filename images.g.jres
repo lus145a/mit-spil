@@ -4,6 +4,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAADdAAAAAAAA0EINAAAAAADQVNe7uwAAANB1hjpCCwDQ3WeoI1QLAN11hjpCdQvQVGeoI1S3AE11hjpCdbYAXWeoI1RnuADQhjpCdYa6AACtI1RnqCMLANBNdYY6QgsAANBnqCNUCwAA0Ibau7sAAADQqA0AAAAAAADdAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "adminStar"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAABCAAAAAAAAIFQHAAAAAABAdYY6QgAAAFBnqCNUBwBAdYY6QnUGAFRnqCNUZwhAdYY6QnWGAFRnqCNUZ6gAdYY6QnWGOgBgqCNUZ6gjAAA6QnWGOkIFACBUZ6gjVAcAAHCGOkJ1BgAAYKgjVGcAAACAOgIAAAAAAAAjAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
