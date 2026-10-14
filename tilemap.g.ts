@@ -3,16 +3,6 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const transparency16 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile19 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
-    export const tile20 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
-    export const tile21 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
-    export const tile22 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
-    export const tile23 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
     export const tile24 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile25 = image.ofBuffer(hex``);
@@ -194,23 +184,11 @@ namespace myTiles {
     export const tile113 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile114 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
-    export const tile115 = image.ofBuffer(hex``);
 
     helpers._registerFactory("tile", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "baseTransparency16":
             case "transparency16":return transparency16;
-            case "purpleOuterSouthWest":
-            case "tile19":return tile19;
-            case "purpleOuterEast1":
-            case "tile20":return tile20;
-            case "purpleOuterNorthEast":
-            case "tile21":return tile21;
-            case "floorDark0":
-            case "tile22":return tile22;
-            case "floorDark3":
-            case "tile23":return tile23;
             case "floorDark1":
             case "tile24":return tile24;
             case "floorDark4":
@@ -393,8 +371,6 @@ namespace myTiles {
             case "tile113":return tile113;
             case "oceanSand12":
             case "tile114":return tile114;
-            case "myTile8":
-            case "tile115":return tile115;
         }
         return null;
     })

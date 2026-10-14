@@ -5,36 +5,6 @@
         "tilemapTile": true,
         "displayName": "baseTransparency16"
     },
-    "tile19": {
-        "data": "hwQQABAAAADPysqqrMw6o/zMyqqsyjqjqszKqqzDzKPMzMyqrMPKzKrKzKqswzrMzMzMrKzDOsOqqsrMrMM6w6qqqsyswzqjzMzMzMzKOqPMqqqqzMw6o6wzMzPDzDqjzMzMzMzMPKOqqqyqqsrMozMzzDMzM8ysMzPDMzMzw8+qqsqsqqqq/A==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "purpleOuterSouthWest"
-    },
-    "tile20": {
-        "data": "hwQQABAAAADMzMzMzMzMzMzMzMzMzMzMqsyqqqrMqqrMzMzMzMzMzKyqqsqsqqrKzMzMzMzMzMyqyqyqqqqsqqrKqqqqqqyqzMzMzMzMzMzMqqqqzKqqqqwzM6OsMzOjzMzMzMzMzMyqqqyqqqrMqjOjPDMzMzwzMzM8MzMzPDOqyqyqqsqsqg==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "purpleOuterEast1"
-    },
-    "tile21": {
-        "data": "hwQQABAAAAA6o8zMqqys/DqjrMyqrKzPOqM8yqqszKw6ozzKqszMzDrMPMqqzKyqzKw8ysrMzMw8ozzKzKyqqjqjPMrMqqqqOqM8zMzMzMw6o8zMqqqqqjqjzKwzMzPKOsPMzMzMzMw6zKyqqqrKqsrMMzMzM8wz/DwzMzPDPDPPqqqqysysqg==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "purpleOuterNorthEast"
-    },
-    "tile22": {
-        "data": "hwQQABAAAADb3d3N293dzb27u8u9u7vLvbu7y727u8u9u7vLvbu7y727u8u9u7vLvbu7y727u8u9u7u7vbu7u8zMzKvMzMyr293dzdvd3b29u7vLvbu7y727u8u9u7vLvbu7y727u8u9u7vLvbu7y727u8u9u7vLvbu7u727u8vMzMyrzMzMqw==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "floorDark0"
-    },
-    "tile23": {
-        "data": "hwQQABAAAADb3d3NzMzMzL27u8vMzMzMvbu7y8zc3cy9u7vL3b27zL27u8vcu7vMvbu7y8y7u8y9u7urzMy7y8zMvMrMzLzL293NzMzMzMu9u8vczczMzL27y73bzczMvbvMvLu7y8y9u8zMvLvLzL27zMzMvMzMvcvMzMzMzMzMzMzMzMzMzA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "floorDark3"
-    },
     "tile24": {
         "data": "hwQQABAAAADb3d3N293dzb27u8u9u7vLvbu7y727u8u9u7vLvbu7y727u8u9u7vLvbu7y727y8y9u7u7vbvMzMzMzKvMzMyr293dzdvd3c29u7vLvbu7y727y8y9u7vLvbvMzL27u8u927vLvbu7y73cu8u9u7vLzbu7u727u8vMzMyrzMzMqw==",
         "mimeType": "image/x-mkcd-f4",
@@ -580,12 +550,6 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "oceanSand12"
-    },
-    "tile115": {
-        "data": "hwQQABAAAADMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "myTile8"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
