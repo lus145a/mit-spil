@@ -18,7 +18,11 @@
         "Custom Keybind Extension": "github:Brohann3214/custom-keybind-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64",
         "controller": "*",
         "pxt-clock": "github:Blobbey2000/pxt-clock#v1.10.4",
-        "browser-events": "*"
+        "browser-events": "*",
+        "arcade-more-colors": "github:c-minusminus/arcade-more-colors#9030b15c4ebcd4d081c625d9fbd4fe692bf03678",
+        "keyboard": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "Depth By Y": "github:agnotario/depth-by-y#v0.1.0"
     },
     "files": [
         "main.blocks",
