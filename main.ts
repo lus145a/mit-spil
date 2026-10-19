@@ -1,3 +1,6 @@
+namespace SpriteKind {
+    export const Chest = SpriteKind.create()
+}
 function menu () {
     myMenu = miniMenu.createMenu(
     miniMenu.createMenuItem("Play"),
@@ -264,6 +267,10 @@ let password = ""
 let username = ""
 let admin = 0
 let myMenu: Sprite = null
+let mySprite3 = sprites.create(assets.image`Chest3`, SpriteKind.Player)
+let mySprite4 = sprites.create(assets.image`Chest4`, SpriteKind.Player)
+let mySprite2 = sprites.create(assets.image`Chest2`, SpriteKind.Player)
+let mySprite = sprites.create(assets.image`Chest`, SpriteKind.Chest)
 scene.setBackgroundImage(img`
     99999999999999999999999999999999999999999999999999999999999999bddd999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999996
     99999999999999999999999999999999999999999999999999999999999999ddddd9999999b999999999999999999999999999999999999999999999999999999999999999999999999999999999999
